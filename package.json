@@ -1,0 +1,25 @@
+{
+  "name": "chatwebsocket",
+  "version": "1.0.0",
+  "description": "Server Websocket Node + Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VhannAstray/chatwebsocket.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "websocket",
+    "typescript"
+  ],
+  "author": "Vhann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VhannAstray/chatwebsocket/issues"
+  },
+  "homepage": "https://github.com/VhannAstray/chatwebsocket#readme"
+}
