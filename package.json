@@ -21,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/VhannAstray/chatwebsocket/issues"
   },
-  "homepage": "https://github.com/VhannAstray/chatwebsocket#readme"
+  "homepage": "https://github.com/VhannAstray/chatwebsocket#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "typescript": "^3.0.3",
+    "ws": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "@types/ws": "^6.0.1"
+  }
 }
