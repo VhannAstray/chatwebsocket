@@ -5,6 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# On veut pas se trimballer l'espace de travail
+*.code-workspace
+
 # Runtime data
 pids
 *.pid
